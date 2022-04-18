@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tbnan@hotmail.com
+	name = theebak nanthapalan
